@@ -1,0 +1,6 @@
+projectKey=org.sonarsource.samples:java-custom-rules
+serverUrl=http://localhost:9000
+serverVersion=7.2.1.14109
+dashboardUrl=http://localhost:9000/dashboard?id=org.sonarsource.samples%3Ajava-custom-rules
+ceTaskId=AWWp6Oa02vSH_erNeRPr
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWWp6Oa02vSH_erNeRPr

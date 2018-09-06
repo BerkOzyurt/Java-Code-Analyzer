@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/sonar/samples/java/checks/KuralDort.java=UTF-8
+encoding//src/test/java/org/sonar/samples/java/checks/KuralDortTest.java=UTF-8

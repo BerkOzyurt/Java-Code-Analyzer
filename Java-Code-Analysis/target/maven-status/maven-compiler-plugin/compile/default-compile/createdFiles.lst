@@ -1,0 +1,12 @@
+org\sonar\samples\java\MyRulesDefinition.class
+org\sonar\samples\java\checks\KuralAlti.class
+org\sonar\samples\java\checks\KuralYedi.class
+org\sonar\samples\java\checks\KuralUc.class
+org\sonar\samples\java\MyFileCheckRegistrar.class
+org\sonar\samples\java\MyRulesList.class
+org\sonar\samples\java\MyJavaMain.class
+org\sonar\samples\java\checks\KuralBes.class
+org\sonar\samples\java\checks\KuralSekiz.class
+org\sonar\samples\java\checks\KuralIki.class
+org\sonar\samples\java\checks\KuralBir.class
+org\sonar\samples\java\checks\KuralDort.class

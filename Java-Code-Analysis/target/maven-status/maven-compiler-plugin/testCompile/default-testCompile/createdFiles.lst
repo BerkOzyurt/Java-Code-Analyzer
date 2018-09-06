@@ -1,0 +1,4 @@
+org\sonar\samples\java\checks\KuralIkiTest.class
+org\sonar\samples\java\checks\KuralBirTest.class
+org\sonar\samples\java\checks\KuralUcTest.class
+org\sonar\samples\java\checks\KuralDortTest.class
